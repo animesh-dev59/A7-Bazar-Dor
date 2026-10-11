@@ -52,7 +52,7 @@ const CategoryProducts = ({
         <p className="text-sm text-gray-500">
           মোট {products.length}টি পণ্য পাওয়া গেছে
         </p>
-{/* ai Jaigai short kora holo  */}
+         {/* ai Jaigai short kora holo  */}
         <div className="flex items-center gap-2">
           <label htmlFor="sort" className="text-sm">
             সাজান:
