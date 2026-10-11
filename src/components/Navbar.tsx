@@ -43,7 +43,7 @@ const Navbar = () => {
     </div>
 
     {/* Auth Buttons */}
-   <UserInfo />
+   <UserInfo/>
 
   </div>
  <Navlink />
